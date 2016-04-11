@@ -19,3 +19,11 @@ export function vote(state, entry) {
         tally => tally + 1
     );
 }
+
+function getWinners(vote) {
+
+}
+
+export function next(state) {
+    
+}
